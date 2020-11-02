@@ -1,0 +1,223 @@
+{
+    "pretpark": [
+        {
+            "key": "101",
+            "name": "Disneyland Parijs",
+            "image": "Disneyland-Paris.jpg",
+            "straat": "Boulevard de Parc",
+            "postcode": "77700",
+            "gemeente": "Coupvray ",
+            "link": "https://www.disneylandparis.com/nl-be/",
+            "comment": "Jaarlijks heeft Disneyland Paris het hoogste bezoekersaantal onder de attractieparken in Europa.",
+            "telefoon": "+33 825 30 05 00",
+            "LAT":  "48.871900",
+            "LON": "2.776623"
+
+    },
+        {
+            "key": "102",
+            "name": "Europa-Park",
+            "image": "Europa-Park.jpg",
+            "straat": "Europa-Park-Straße 2",
+            "postcode": "77977",
+            "gemeente": "Rust ",
+            "link": "https://www.europapark.de/nl",
+            "comment": "Europa-Park is het grootste attractiepark van Duitsland.",
+            "email": "benelux@europapark.de",
+            "telefoon": "+49 7822 77-6688",
+            "LAT": "48.2660194",
+            "LON": "7.7220076"
+
+    },
+        {
+            "key": "103",
+            "name": "Efteling",
+            "image": "Efteling.jpg",
+            "straat": "Europalaan 1",
+            "postcode": "5171 KW",
+            "gemeente": "Kaatsheuvel",
+            "link": "https://www.efteling.com/nl",
+            "comment": "De efteling is qua bezoekersaantallen en oppervlakte het grootste attractiepark van de Benelux.",
+            "email": "informatie@efteling.com",
+            "telefoon": "+31 (0) 416 537 777",
+            "LAT": "51.6506518",
+            "LON": "5.0497462"
+
+    },
+        {
+            "key": "104",
+            "name": "Tivoli Gardens",
+            "image": "Tivoli-Gardens.jpg",
+            "straat": "Vesterbrogade 3",
+            "postcode": "1630",
+            "gemeente": "København V",
+            "link": "https://www.tivoli.dk/en/",
+            "comment": "Tivoli is het meest bezochte attractiepark in Denemarken: in 2016 bezochten 4.640.000 mensen het park.",
+            "email": "info@tivoli.dk",
+            "telefoon": "+45 33151001",
+            "LAT": "55.673796",
+            "LON": "12.568083"
+    },
+        {
+            "key": "105",
+            "name": "PortAventura World",
+            "image": "PortAventura.jpg",
+            "straat": "Av. Pere Molas",
+            "postcode": "43840",
+            "gemeente": "Tarragona ",
+            "link": "https://www.portaventuraworld.com/en",
+            "comment": "PortAventura World is een Spaans resort met een oppervlakte van 119 hectare, bestaand uit onder andere diverse hotels, twee attractieparken, een waterpark, een congrescentrum en een RV park.",
+            "email": "portaventura@portaventura.es",
+            "telefoon": "+34 902 20 22 20",
+            "LAT": "41.08416633",
+            "LON": "1.15083273"
+
+    },
+        {
+            "key": "106",
+            "name": "Liseberg",
+            "image": "Liseberg.jpg",
+            "straat": "Örgrytevägen 5",
+            "postcode": "402 22",
+            "gemeente": "Göteborg ",
+            "link": "https://www.liseberg.com/",
+            "comment": " Liseberg is het grootste attractiepark van Scandinavië. Bijzonder aan het park is ook dat het gebouwd is op een heuvel. Heel wat attracties zijn dan ook op deze heuvel ingewerkt, zoals de Lisebergbanan en een reuzeschommel.",
+            "email": "kontakt@liseberg.se",
+            "telefoon": "+46 (0)31-400 100",
+            "LAT": "57.695314",
+            "LON": "11.992497"
+    },
+        {
+            "key": "107",
+            "name": "Gardaland",
+            "image": "Gardaland.jpg",
+            "straat": "Via Derna",
+            "postcode": "37014",
+            "gemeente": "Castelnuovo del Garda VR ",
+            "link": "https://www.gardaland.it/en/",
+            "comment": "Gardaland is een attractiepark in Veneto, Italië, in het plaatsje Castelnuovo del Garda aan het Gardameer. Het werd geopend in juli 1975 en is sindsdien, met meer dan 2,5 miljoen bezoekers per jaar, uitgegroeid tot het grootste en meest populaire attractiepark in Italië.",
+            "email": "infobox@gardaland.it",
+            "telefoon": "045 64 49 777",
+            "LAT": "45.453073",
+            "LON": "10.714564"
+
+    },
+        {
+            "key": "108",
+            "name": "Alton Towers",
+            "image": "Alton-Towers.jpg",
+            "straat": "Farley Lane",
+            "postcode": "ST10 4DB",
+            "gemeente": "Alton",
+            "link": "https://www.altontowers.com/",
+            "comment": "Alton Towers trekt jaarlijks ongeveer twee miljoen bezoekers, waarmee het na Legoland Windsor het meest bezochte attractiepark is in het Verenigd Koninkrijk.",
+            "telefoon": "01538704095",
+            "LAT": "52.987475",
+            "LON": "-1.886494"
+
+    },
+        {
+            "key": "109",
+            "name": "Legoland Windsor",
+            "image": "Legoland-Windsor.jpg",
+            "straat": "Winkfield Road",
+            "postcode": "SL4 4AY",
+            "gemeente": "Windsor ",
+            "link": "https://www.legoland.co.uk/",
+            "comment": "Legoland Windsor is een kindergericht pretpark in Windsor in Engeland. Het park is gethematiseerd rond het speelgoed Lego.",
+            "telefoon": "01753 626 416",
+            "LAT": "51.463787",
+            "LON": "-0.650081"
+
+    },
+        {
+            "key": "110",
+            "name": "Futuroscope",
+            "image": "Futuroscope.jpg",
+            "straat": "Avenue René Monory",
+            "postcode": "86360",
+            "gemeente": "Chasseneuil-du-Poitou",
+            "link": "https://www.futuroscope.com/fr/",
+            "comment": "Futuroscope is een Frans attractiepark dat is opgebouwd rond de thema's multimedia, cinematografie en futuristische audio-visuele technieken.",
+            "email": "international@futuroscope.fr",
+            "telefoon": "+33 5 49 49 59 06",
+            "LAT": "46.669820",
+            "LON": "0.369780"
+
+    },
+        {
+            "key": "111",
+            "name": "Gröna Lund",
+            "image": "Grona-Lund.jpg",
+            "straat": "Lilla Allmänna Gränd 9",
+            "postcode": "115 21",
+            "gemeente": "Stockholm ",
+            "link": "https://www.gronalund.com/",
+            "comment": "Tivoli Gröna Lund is een attractiepark in de Zweedse hoofdstad Stockholm. Het park is gelegen op het schiereiland Djurgården en opende voor het eerst de poorten in 1883. In 2003 vierde het park dat het 120 jaar oud was met onder andere een nieuwe achtbaan. Gröna Lund beschikt over ongeveer 30 attracties, waaronder zes achtbanen.",
+            "email": "mail@gronalund.com",
+            "telefoon": "010-708 91 00",
+            "LAT": "59.323537",
+            "LON": "18.096615"
+
+    },
+        {
+            "key": "112",
+            "name": "Phantasialand",
+            "image": "Phantasialand.jpg",
+            "straat": "Berggeiststraße 31-41",
+            "postcode": "50321",
+            "gemeente": "Brühl",
+            "link": "https://www.phantasialand.de/nl/",
+            "comment": "Phantasialand is een attractiepark in het Duitse Brühl, vlak bij Keulen. Het park behoort tot de top 15 van meest bezochte parken van Europa. In 2016 werd het park bezocht door 2 miljoen gasten.",
+            "email": "info@phantasialand.de",
+            "telefoon": "+49 (0)2232 36-200",
+            "LAT": "50.799324",
+            "LON": "6.879494"
+
+    },
+        {
+            "key": "113",
+            "name": "Parc Astérix",
+            "image": "Parc-Asterix.jpg",
+            "straat": "Autoroute A1 BP8",
+            "postcode": "60128",
+            "gemeente": "Plailly ",
+            "link": "https://www.parcasterix.fr/nl",
+            "comment": "Parc Astérix is een Frans attractiepark in Plailly, ongeveer 35 km ten noorden van Parijs. Het is gebaseerd op de stripverhalen van Asterix en Obelix van Albert Uderzo en René Goscinny. Het park werd in 1989 geopend en is erg populair. Het complex omvat het pretpark en een themahotel: Hotel des Trois Hiboux.",
+            "telefoon": "+33 (0)9 86 86 86 87",
+            "LAT": "49.134205",
+            "LON": "2.571348"
+
+    },
+        {
+            "key": "114",
+            "name": "Puy Du Fou",
+            "image": "puy-du-fou.jpg",
+            "straat": "Le Puy du Fou",
+            "postcode": "85590",
+            "gemeente": "Les Epesses",
+            "link": "https://www.puydufou.com/nl",
+            "comment": "Puy du Fou is een geschiedkundig themapark in de plaats Les Epesses in het Franse departement Vendée. Het park is qua bezoekersaantallen het tweede park van Frankrijk en het dertiende van Europa.Het park is volledig gebaseerd op shows, waardoor het heel verschillend is ten opzichte van de meeste attractieparken.",
+            "email": "commercial@puydufou.com",
+            "telefoon": "+33 (0) 820 09 10 10",
+            "LAT": "46.889560",
+            "LON": "-0.928043"
+
+    },
+        {
+            "key": "115",
+            "name": "Aqualandia",
+            "image": "Aqualandia.jpg",
+            "straat": "Sierra Helada",
+            "postcode": "03503",
+            "gemeente": "Benidorm",
+            "link": "https://www.aqualandia.net/",
+            "comment": "Aqualandia is een waterpark gelegen in Benidorm in de Costa Blanca.",
+            "email": "aqualandia@aqualandia.net",
+            "telefoon": "96 586 01 00",
+            "LAT": "38.541343",
+            "LON": "-0.093892"
+
+    }
+  ]
+}

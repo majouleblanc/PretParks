@@ -1,0 +1,168 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation:scaleIn  infinite 10s linear;
+  height: 40vmin;
+  border-radius: 50%;
+  
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+@keyframes scaleIn {
+  0% {
+    -webkit-opacity: 0;
+    -webkit-transform: scale(.3);
+    opacity: 0;
+    transform: scale(.3);
+  }
+  25% {
+    -webkit-opacity: 0.5;
+    -webkit-transform: scale(.7);
+    opacity: 0.5;
+    transform: scale(.7);
+  }
+  50% {
+    -webkit-opacity: 1;
+    -webkit-transform: scale(1);
+    opacity: 1;
+    transform: scale(1);
+  }
+75% {
+    -webkit-opacity: 0.5;
+    -webkit-transform: scale(.7);
+    opacity: 0.5;
+    transform: scale(.7);
+  } 
+  100% {
+    -webkit-opacity: 0;
+    -webkit-transform: scale(.3);
+    opacity: 0;
+    transform: scale(.3);
+  } 
+}
+
+
+.movie-card{
+  margin: 10px;
+}
+
+
+
+.movie-card.card {
+  
+  height: 350px;
+  width: 500px;
+    box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+
+}
+.card-footer-badge {
+  font-size: 1rem;
+}
+
+.card-img-top{
+  width:400px;
+  height: 81%;
+}
+
+.card-deck{
+  
+  padding-top: 30px;
+  
+}
+
+
+.header {
+    height: 100px;
+}
+
+.DCon{
+    margin-top: 120px;
+}
+
+
+.myImg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.leaflet-container {
+  height: 400px;
+  width: 100%;
+}
+
+.leaflet {
+  height: 300px;
+  width: 100%;
+}
+
+.vbottom{
+	    margin-top: 54px;
+}
+
+span{
+  font-weight: bold
+}
+
+.Com-Text {
+  padding-top: 15px;
+  padding-bottom: 65px;
+
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 100px;
+  right: 1100px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 80px
+}
+.aaron{
+  width: 100%;
+  font-weight: bold
+}
+
+
+body {
+    font-family: 'Adamina';font-size: 22px;
+}
